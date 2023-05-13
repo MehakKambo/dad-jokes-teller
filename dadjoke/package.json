@@ -2,11 +2,12 @@
   "name": "dadjoke",
   "displayName": "Tell me a Dad Joke",
   "description": "This extension will tell you a dad joke.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.78.0"
   },
   "publisher": "MehakKambo",
+  "icon": "images/icon.png",
   "categories": [
     "Other"
   ],
