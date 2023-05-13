@@ -2,6 +2,9 @@
 Say goodbye to boring coding sessions – this new extension for VS Code delivers a fresh dad joke every time you need a break.. The extension uses the icanhazdadjoke.com API to fetch a random dad joke and displays it in a notification window.
 The extension is live. Go check it out at https://marketplace.visualstudio.com/items?itemName=MehakKambo.dadjoke.
 
+# Demo
+![Alt Text](Demo.gif)
+
 # Features
 - Tells a random dad joke.
 # Requirements
