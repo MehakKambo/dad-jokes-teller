@@ -6,6 +6,7 @@
   "engines": {
     "vscode": "^1.78.0"
   },
+  "publisher": "MehakKambo",
   "categories": [
     "Other"
   ],
@@ -41,7 +42,10 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "axios": "^1.4.0",
-    "tsc": "^2.0.4"
-  }
+    "axios": "^1.4.0"
+  },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/MehakKambo/dad-jokes-teller.git"
+    }
 }
