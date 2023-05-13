@@ -15,8 +15,8 @@
     "commands": [
       {
         "command": "extension.tellDadJoke",
-        "title": "Tell a Dad Joke"
-    }
+        "title": "Tell me a Dad Joke"
+      }
     ]
   },
   "scripts": {
@@ -41,6 +41,7 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "axios": "^1.4.0"
+    "axios": "^1.4.0",
+    "tsc": "^2.0.4"
   }
 }
