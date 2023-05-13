@@ -3,7 +3,7 @@ Say goodbye to boring coding sessions – this new extension for VS Code deliver
 The extension is live. Go check it out at https://marketplace.visualstudio.com/items?itemName=MehakKambo.dadjoke.
 
 # Demo
-![Alt Text](Demo.gif)
+![Alt Text](demo.gif)
 
 # Features
 - Tells a random dad joke.
